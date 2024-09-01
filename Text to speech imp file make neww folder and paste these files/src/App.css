@@ -1,0 +1,47 @@
+.app-container {
+  text-align: center;
+  margin: 20px;
+}
+
+h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+textarea {
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto 20px; /* Center the textarea and add margin below */
+  display: block; /* Ensure the textarea is block-level */
+}
+
+.button-container {
+  display: flex; /* Use flexbox for horizontal alignment */
+  justify-content: center; /* Center align the buttons horizontally */
+  gap: 10px; /* Space between the buttons */
+  margin-top: 20px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  background-color: #927111;
+  color: #fff;
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.2s;
+}
+
+button:hover {
+  background-color: #e3b425;
+  transform: scale(1.05);
+}
+
+.audio-container {
+  margin-top: 20px;
+}
+
+audio {
+  margin-top: 10px;
+}
