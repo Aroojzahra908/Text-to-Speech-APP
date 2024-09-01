@@ -5,7 +5,8 @@ A simple web application that extracts text from various file types (PDFs, image
 npx create-react-app my-text-to-speech-app
 
 ## Screenshot
-![App Screenshot](images\Demo.png)
+![App Screenshot](images/Demo.png)
+
 The above image shows the main interface of the application.
 
 ## Features
