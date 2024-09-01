@@ -1,0 +1,9 @@
+# tesseract-ocr-w64-setup-5.4.0.20240606.exe (64 bit)  install on you local machine and set environment variable 
+pip install fitz
+Flask
+gTTS
+googletrans==4.0.0-rc1
+Flask-Cors
+Pillow
+pytesseract
+PyMuPDF
